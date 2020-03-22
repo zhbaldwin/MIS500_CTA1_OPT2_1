@@ -7,7 +7,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-x=1+2;
+
 # Create Data_Frame from Array. This could also be a data file loaded
 # Three ways to load files
 # cvs read,
